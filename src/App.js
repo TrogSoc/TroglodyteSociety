@@ -201,7 +201,7 @@ function App() {
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/images/bg.png" : null}
       >
-        <StyledLogo alt={"logo"} src={"/images/logo.png"} />
+        <StyledLogo alt={"logo"} src={"/logo512.png"} />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
