@@ -10,7 +10,7 @@
   "SYMBOL": "TS",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 5000000000000000000,
-  "DISPLAY_COST": 5,
+  "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/troglodyte-society-v2",
